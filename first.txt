@@ -1,1 +1,2 @@
 This is my first trial of git and i hope i find it interesting!
+I am kinda of enjoying Git i just hope this ends well # second commit is on the way.
